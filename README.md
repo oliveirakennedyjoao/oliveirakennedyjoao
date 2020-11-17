@@ -1,6 +1,6 @@
 # João Kennedy Oliveira
 
-## Olá,
+### Olá,
 
 Sou desenvolvedor profissionalmente desde 2014. Comecei minha carreira profissional com desenvolvimento de aplicações android, migrando, posteriormente, para o desenvolvimento web, área na qual atuo há quase 2 anos.
 
