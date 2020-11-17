@@ -2,7 +2,13 @@
 
 <h1 align="center">Hi 👋, I'm João Kennedy Oliveira</h1>
 <h3 align="center">A passionate frontend developer from Brasil</h3>
+    <p>
+        Sou desenvolvedor profissionalmente desde 2015. Trabalhei com desenvolvimento de aplicações android e, atualmente, tenho ênfase em desenvolvimento mobile, atuando na área há quase 2 anos.
 
+        Trabalho atualmente com o framework Angular (discussões acerca desta nomeclatura), embora estude constantemente diversas tecnologias que constituem o ecossistema NODE / JavaScript.
+
+        Admirador de boas práticas de programação.
+</p>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
@@ -11,9 +17,6 @@
     </a>
     <a href="https://angular.io" target="_blank">
         <img src="https://devicons.github.io/devicon/devicon.git/icons/angularjs/angularjs-original.svg" alt="angularjs" width="40" height="40"/>
-    </a>
-    <a href="https://getbootstrap.com" target="_blank">
-        <img src="https://devicons.github.io/devicon/devicon.git/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="40" height="40"/>
     </a>
     <a href="https://www.w3schools.com/css/" target="_blank">
         <img src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
