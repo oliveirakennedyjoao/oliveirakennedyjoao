@@ -1,10 +1,16 @@
 ![image](https://github.com/user-attachments/assets/56a3afae-914d-43a4-926e-0c9c6b501888)
 
+<br/>
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/joao-kennedy-oliveira" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin logo" /></a>
+  <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />
+</div>
+
 <div align="center">
   <h2>Sobre mim</h2>
   <br/>
 </div>
-
 
 <div align="center">
   <p>
