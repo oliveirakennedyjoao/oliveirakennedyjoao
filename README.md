@@ -5,7 +5,7 @@
 <br/>
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/joao-kennedy-oliveira" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin logo" /></a>
+  <a href="https://www.linkedin.com/in/joao-kennedy-oliveira" target="blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin logo" /></a>
   <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />
 </div>
 
@@ -26,7 +26,7 @@
 </div>
 
 <div align="center">
-  <img alt="html5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=e34f26&color=20232a"/>
+  <img style="pointer-events: none;" alt="html5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=e34f26&color=20232a"/>
   <img alt="css3" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=54aeff&color=20232a"/>
   <img alt="javascript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E&color=20232a"/>
   <img alt="typescript" src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=0d91f0&color=20232a"/>
