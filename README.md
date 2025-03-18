@@ -1,4 +1,6 @@
-![image](https://github.com/user-attachments/assets/56a3afae-914d-43a4-926e-0c9c6b501888)
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/f523f188-21bb-4262-83e2-f86d888c2a95" alt="Programmer Coding">
+</div>
 
 <br/>
 
