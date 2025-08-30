@@ -1,8 +1,6 @@
-<div align="center">
-  <img src="https://github.com/user-attachments/assets/f523f188-21bb-4262-83e2-f86d888c2a95" alt="Programmer Coding">
-</div>
+<img width="1200" height="300" alt="image" src="https://github.com/user-attachments/assets/2848519d-9b43-4c14-ac75-bc60a63b7393" alt="Spacial landscapeProgrammer Coding" />
 
-<br/>
+<br /><br />
 
 <div align="center">
   <a href="https://www.linkedin.com/in/joao-kennedy-oliveira" target="blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin logo" /></a>
